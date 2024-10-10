@@ -1,6 +1,6 @@
 # EquipoBasket
 
-![Badge producto](https://img.shields.io/badge/Status-Producto%1-green)
+![Badge producto](https://img.shields.io/badge/Status-Producto%201-green)
 ![Version Angular](https://img.shields.io/badge/Angular-v18.2.0-red)
 
 Bienvenidos a nuestro proyecto.
